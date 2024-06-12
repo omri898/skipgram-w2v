@@ -11,7 +11,7 @@ The SkipGram model is a neural network-based approach to learning word embedding
 
 ## Installation
 
-To install the necessary dependencies, ensure you have the following files:
+Ensure you have the following files:
 
 - [skipgram_w2v.py](https://github.com/omri898/skipgram-w2v/blob/main/skipgram_w2v.py)
 - [requirements.txt](https://github.com/omri898/skipgram-w2v/blob/main/requirements.txt)
