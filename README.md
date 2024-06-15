@@ -3,7 +3,9 @@
 
 This project implements the SkipGram model for Word2Vec in Python, allowing users to train word embeddings, compute word similarities, and solve analogy tasks for natural language processing applications.
 
-![SkipGram Word2Vec](https://github.com/omri898/skipgram-w2v/blob/main/DALL%C2%B7E%202024-06-12%2018.23.01%20-%20An%20artistic%20visualization%20of%20a%20neural%20network%20processing%20text%20data%20for%20word%20embeddings%20in%20natural%20language%20processing.%20The%20image%20features%20interconnect.webp)
+<div align="center">
+  <img src="https://github.com/omri898/skipgram-w2v/blob/main/DALL%C2%B7E%202024-06-12%2018.23.01%20-%20An%20artistic%20visualization%20of%20a%20neural%20network%20processing%20text%20data%20for%20word%20embeddings%20in%20natural%20language%20processing.%20The%20image%20features%20interconnect.webp" alt="SkipGram Word2Vec" width="500"/>
+</div>
 
 ## Overview
 
